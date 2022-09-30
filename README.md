@@ -1,6 +1,5 @@
 # Password Generator
-## Objectives:
-### Create a password that the user can choose whether to add lower case, upper case, numeric, special characters, or all that they select for their password to be a set length between 8 and 128 characters.
+## Allows a user to create a password that they can decide the set length of to be between 8 and 128 characters. They then choose whether to add lower case, upper case, numeric, special characters, or all that they've selected for their password to have. 
 
 ## [Link to Password Generator](file:///C:/Users/Preston/homework/password-generator/Develop/index.html)
 
