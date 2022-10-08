@@ -1,9 +1,4 @@
 // Assignment code here
-// Prompt for length of password 8-128
-// Prompt for lowercase, uppercase, numeric, and/or special characters
-// Input should be validated and at least one character type should be selected
-// Password is generated that matches the selected criteria
-// Return password
 function generatePassword() {
   var length = prompt("Character length of password: (Min:8 Max:128)");
   if (length >= 8 && length <= 128) {
